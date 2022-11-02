@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on personal projects.<br>
 🌱 I’m currently learning Java & Kotlin.<br>
-📫 How to reach me  <a href="mailto:a.ayar94@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="30px" height="25px"/></a><br>
+📫 How to reach me  <a href="mailto:a.ayar94@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="10px" height="20px"/></a><br>
 🎓 Electrical and Electronics Engineering.
 
 
