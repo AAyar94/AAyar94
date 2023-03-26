@@ -11,9 +11,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=AAyar94&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AAyar94&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAyar94&theme=swift&hide_border=false&include_all_commits=true&Cache-Control:no-cache&count_private=true&layout=default)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=AAyar94&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=AAyar94&theme=radical&hide_border=false)<br>![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAyar94&theme=radical&hide_border=false&include_all_commits=true&Cache-Control:no-cache&count_private=true&layout=default)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aayar94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ademayar94) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a.ayar94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20677113/adem-ayar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_AdemA94) 
