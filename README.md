@@ -2,13 +2,8 @@
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java & Kotlin , Android App Development<br>🎓 Electrical and Electronics Engineering<br>📫 How to reach me  <a href="mailto:a.ayar94@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,autocad,figma,firebase,git,gradle,idea,java,kotlin,materialui,ps,postman,raspberrypi)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=AAyar94&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=AAyar94&theme=radical&hide_border=false)<br>![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAyar94&theme=radical&hide_border=false&include_all_commits=true&Cache-Control:no-cache&count_private=true&layout=default)
