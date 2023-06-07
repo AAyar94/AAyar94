@@ -11,10 +11,11 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aayar94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ademayar94) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a.ayar94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20677113/adem-ayar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_AdemA94) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
 [![](https://visitcount.itsvg.in/api?id=AAyar94&icon=5&color=3)](https://visitcount.itsvg.in)
 
+## My Projects
 
+| [Earthquakes App](https://github.com/AAyar94/Earthquakes) | [Valorant Guide & Stats](https://github.com/AAyar94/Valorant_Guide_And_Stats) | [Food_Recipes](https://github.com/AAyar94/Food_Recipes) |
+|--------------|-------------|-------------|
+| <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/main/screenshots/screenshot_home_screen.gif" width="250" /> | <img src="https://raw.githubusercontent.com/AAyar94/Food_Recipes/master/Screenshots/FoodRecipe1.png" width="250" /> |
