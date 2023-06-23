@@ -1,3 +1,5 @@
+<div align=center>
+
 # 💫 About Me:
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Jetpack Compose, Android App Development<br>🎓 Electrical and Electronics Engineering<br>📫 How to reach me  <a href="mailto:a.ayar94@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>
 
@@ -12,10 +14,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aayar94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ademayar94) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a.ayar94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20677113/adem-ayar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_AdemA94) 
 
 
-[![](https://visitcount.itsvg.in/api?id=AAyar94&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AAyar94&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-## My Projects
+## 📲My Projects
 
 | [Earthquakes App](https://github.com/AAyar94/Earthquakes) | [Valorant Guide & Stats](https://github.com/AAyar94/Valorant_Guide_And_Stats) | [Food_Recipes](https://github.com/AAyar94/Food_Recipes) |
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/main/screenshots/screenshot_home_screen.gif" width="250" /> | <img src="https://raw.githubusercontent.com/AAyar94/Food_Recipes/master/Screenshots/FoodRecipe1.png" width="250" /> |
+
+</div>
