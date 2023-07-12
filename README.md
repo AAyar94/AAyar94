@@ -22,4 +22,9 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/Features/screenshots/Screenshot_stand_preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/AAyar94/Food_Recipes/master/Screenshots/FoodRecipe1.png" width="250" /> |
 
+
+## 🛠Ongoing Projects
+| [SettoWally](https://github.com/AAyar94/SettoWallyKotlin) | [Weather Compose](https://github.com/AAyar94/WeatherCompose) | [Password Generator Compose](https://github.com/AAyar94/Password_Generator_Compose) |
+|--------------|-------------|-------------|
+| <img src="https://github.com/AAyar94/SettoWallyKotlin/blob/master/RAW/Settowally1.png" width="250" /> | <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/app/RAW/screenshot1.png" width="250" /> |
 </div>
