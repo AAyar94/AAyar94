@@ -20,7 +20,7 @@
 
 | [Earthquakes App](https://github.com/AAyar94/Earthquakes) | [Valorant Guide & Stats](https://github.com/AAyar94/Valorant_Guide_And_Stats) | [Food_Recipes](https://github.com/AAyar94/Food_Recipes) | [ToDo](https://github.com/AAyar94/ToDo) |
 |--------------|-------------|-------------|-------------|
-| <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/Features/screenshots/Screenshot_stand_preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/AAyar94/Food_Recipes/master/screenshots/FoodRecipe1.png" width="250" /> | <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_03.png" width="250" /> |
+| <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/Features/screenshots/Screenshot_stand_preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/AAyar94/Food_Recipes/master/screenshots/FoodRecipe1.png" width="250" /> | <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> |
 
 
 ## 🛠Ongoing Projects
