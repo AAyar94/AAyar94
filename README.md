@@ -15,11 +15,9 @@
   
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=AAyar94&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=50%)  ![](https://github-readme-streak-stats.herokuapp.com/?user=AAyar94&theme=radical&hide_border=true)<br>
-
 <div align=center> 
 
-
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=AAyar94&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=50%)  ![](https://github-readme-streak-stats.herokuapp.com/?user=AAyar94&theme=radical&hide_border=true)<br>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAyar94&theme=radical&hide_border=true&exclude_repo=[https://github.com/AAyar94/Monster-Abra-A5-v10.3-EFI/blob/main/.gitattributes]&include_all_commits=true&Cache-Control:no-cache&count_private=true&layout=compact&card_width=445) 
 </div>
 
