@@ -41,9 +41,9 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/Features/screenshots/Screenshot_stand_preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/AAyar94/Food_Recipes/master/screenshots/FoodRecipe1.png" width="250" /> | 
 
-| [ToDo](https://github.com/AAyar94/ToDo)  | [Notes KMM](https://github.com/AAyar94/NotesKMM) |
-|--------------|-------------|
-| <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|
+| [ToDo](https://github.com/AAyar94/ToDo)  | [Notes KMM](https://github.com/AAyar94/NotesKMM) | [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin) |
+|--------------|-------------|-------------|
+| <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/SettoWallySS01.png" width="250" /> |
 
 </div>
 
@@ -51,8 +51,8 @@
 
 <div align=center>
 
-| [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin) | [Weather Compose](https://github.com/AAyar94/WeatherCompose) | [Password Generator Compose](https://github.com/AAyar94/Password_Generator_Compose) |
-|--------------|-------------|-------------|
-| <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/Settowally1.png" width="250" /> | <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/app/RAW/screenshot1.png" width="250" /> |
+|  [Weather Compose](https://github.com/AAyar94/WeatherCompose) | [Password Generator Compose](https://github.com/AAyar94/Password_Generator_Compose) |
+|--------------|-------------|
+|  <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/app/RAW/screenshot1.png" width="250" /> |
 
 </div>
