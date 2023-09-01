@@ -53,6 +53,6 @@
 
 |  [Weather Compose](https://github.com/AAyar94/WeatherCompose) | [Password Generator Compose](https://github.com/AAyar94/Password_Generator_Compose) |
 |--------------|-------------|
-|  <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/app/RAW/screenshot1.png" width="250" /> |
+|  <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/screenshot1.png" width="250" /> |
 
 </div>
