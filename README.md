@@ -45,14 +45,17 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/SettoWallySS01.png" width="250" /> |
 
+| [ToDo](https://github.com/AAyar94/ToDo)  |
+|--------------|
+| <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/screenshot1.png" width="250" /> |
+
 </div>
 
 ## 🛠Ongoing Projects
 
 <div align=center>
 
-|  [Weather Compose](https://github.com/AAyar94/WeatherCompose) | [Password Generator Compose](https://github.com/AAyar94/Password_Generator_Compose) |
-|--------------|-------------|
-|  <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/screenshot1.png" width="250" /> |
-
+|  [Weather Compose](https://github.com/AAyar94/WeatherCompose) |
+|--------------|
+|  <img src="https://github.com/AAyar94/WeatherCompose/blob/master/RAW/screenshot1.png" width="250" /> |
 </div>
