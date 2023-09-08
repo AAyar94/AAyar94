@@ -45,7 +45,7 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/SettoWallySS01.png" width="250" /> |
 
-| [ToDo](https://github.com/AAyar94/ToDo)  |
+| [Password Generator](https://github.com/AAyar94/Password_Generator_Compose)  |
 |--------------|
 | <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/screenshot1.png" width="250" /> |
 
