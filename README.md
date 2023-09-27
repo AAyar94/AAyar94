@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Jetpack Compose, Android App Development<br>🎓 Electrical and Electronics Engineering<br>📫 How to reach me  <a href="mailto:a.ayar94@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Jetpack Compose, Android App Development, SwiftUI & KMM <br>🎓 Electrical and Electronics Engineering<br>📫 How to reach me  <a href="mailto:a.ayar94@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>
 
   
 # 💻 Tech Stack:
