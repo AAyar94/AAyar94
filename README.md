@@ -47,7 +47,7 @@
 
 | [Password Generator](https://github.com/AAyar94/Password_Generator_Compose)  |
 |--------------|
-| <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/screenshot1.png" width="250" /> |
+| <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/password_home_screen.png" width="250" /> |
 
 </div>
 
