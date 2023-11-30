@@ -41,13 +41,13 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/Earthquakes/blob/main/screenshots/app_screenshot1.png" width="250" /> | <img src="https://github.com/AAyar94/Valorant_Guide_And_Stats/blob/Features/screenshots/Screenshot_stand_preview.png" width="250" /> | <img src="https://github.com/AAyar94/Food_Recipes/blob/master/screenshots/screenshot06.png" width="250" /> | 
 
-| [ToDo](https://github.com/AAyar94/ToDo)  | [Notes KMM](https://github.com/AAyar94/NotesKMM) | [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin) |
+| [ToDo](https://github.com/AAyar94/ToDo)  | [Notes KMM](https://github.com/AAyar94/NotesKMM) | [Password Generator](https://github.com/AAyar94/Password_Generator_Compose)  |
 |--------------|-------------|-------------|
-| <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/SettoWallySS01.png" width="250" /> |
+| <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/password_home_screen.png" width="250" /> |
 
-| [Password Generator](https://github.com/AAyar94/Password_Generator_Compose)  |
+| [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin)  |
 |--------------|
-| <img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/password_home_screen.png" width="250" /> |
+| <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/readme_photo.png" width="500" /> |
 
 </div>
 
