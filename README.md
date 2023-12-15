@@ -47,7 +47,7 @@
 
 | [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin)  |
 |--------------|
-| <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/readme_photo.png" width="500" /> |
+| <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> |
 
 </div>
 
