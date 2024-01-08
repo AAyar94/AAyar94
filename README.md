@@ -7,11 +7,11 @@
   
 # 💻 Tech Stack:
 
-<div align=center>
-  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,autocad,swift,figma,firebase,git,gradle,idea,java,kotlin,materialui,ps,vscode,postman,raspberrypi&theme=light&perline=8)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,autocad,figma,firebase,gcp,git,github,githubactions,gradle,html,idea,kotlin,ktor,linkedin,materialui,postman&perline=8" />
+  </a>
+</p>
   
 # 📊 GitHub Stats:
 
