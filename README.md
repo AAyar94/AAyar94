@@ -45,9 +45,9 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/password_home_screen.png" width="250" /> |
 
-| [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin)  | [Snake Game](https://github.com/AAyar94/Snake_Game)
-|--------------|--------------|
-| <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> | <img src="https://github.com/AAyar94/Snake_Game/blob/main/screenshots/snake01.png" width="250" /> |
+| [CaloryTracker](https://github.com/AAyar94/CaloryTracker)  | [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin)  | [Snake Game](https://github.com/AAyar94/Snake_Game)
+|--------------|--------------|--------------|
+| <img src="https://github.com/AAyar94/CaloryTracker/blob/main/screenshots/home_filled.png" width="250" /> | <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> | <img src="https://github.com/AAyar94/Snake_Game/blob/main/screenshots/snake01.png" width="250" /> |
 
 </div>
 
