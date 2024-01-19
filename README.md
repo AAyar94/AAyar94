@@ -19,7 +19,7 @@
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=AAyar94&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=50%)  ![](https://github-readme-streak-stats.herokuapp.com/?user=AAyar94&theme=react&hide_border=true)<br>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAyar94&layout=donut&theme=react&hide=css&hide_border=true&include_all_commits=true&Cache-Control:no-cache&count_private=true)]()
-[![AAyar94's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aayar94)](https://github.com/anuraghazra/github-readme-stats)
+[![AAyar94's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AAyar94)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align=center>
