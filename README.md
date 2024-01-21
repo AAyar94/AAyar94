@@ -21,7 +21,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAyar94&layout=donut&theme=react&hide=css&hide_border=true&include_all_commits=true&Cache-Control:no-cache&count_private=true)]()
 </div>
 
-## One Week Working Time
+## Two Week Working Time
 <div align =center>
   
 [![AAyar94's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AAyar94)](https://github.com/anuraghazra/github-readme-stats)
