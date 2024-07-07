@@ -64,5 +64,5 @@
 
 |  [Aquatick](https://github.com/AAyar94/Aquatick) |
 |--------------|
-|  <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/aquatickhome.png" width="250" />
+|  <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/aquatickhome.png"  />
 </div>
