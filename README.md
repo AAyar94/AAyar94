@@ -49,6 +49,11 @@
 |--------------|--------------|--------------|
 | <img src="https://github.com/AAyar94/CaloryTracker/blob/main/screenshots/home_filled.png" width="250" /> | <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> | <img src="https://github.com/AAyar94/Snake_Game/blob/main/screenshots/snake01.png" width="250" /> |
 
+
+| [CryptoTracker](https://github.com/AAyar94/CryptoTracker)  |
+|--------------|
+| <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/crypto_screenshot_multi.png" width="250" /> | 
+
 </div>
 
 ## 🛠Ongoing Projects
