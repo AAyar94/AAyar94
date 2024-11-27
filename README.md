@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-
-
 🔭 I’m currently working on KMM projects<br>🌱 I’m currently learning Jetpack Compose, Android App Development, SwiftUI & KMM <br>🎓 Electrical and Electronics Engineering<br>📫 How to reach me  <a href="mailto:ademayar09@gmail.com" target="_blank<"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="25px" height="18px"/></a><br>🌍 Check my [Developer Portfolio](https://aayar94.github.io) 
 
   
@@ -25,8 +23,6 @@
 
 # 🌐 Socials:
 
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aayar94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ademayar94) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a.ayar94) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20677113/adem-ayar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_AdemA94) 
 
 [![](https://visitcount.itsvg.in/api?id=AAyar94&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
@@ -45,14 +41,14 @@
 |--------------|-------------|-------------|
 | <img src="https://github.com/AAyar94/ToDo/blob/main/screenshots/screenshot_04.png" width="250" /> | <img src="https://github.com/AAyar94/NotesKMM/blob/main/screenshots/KMM.png" width="250" />|<img src="https://github.com/AAyar94/Password_Generator_Compose/blob/main/RAW/password_home_screen.png" width="250" /> |
 
-| [CaloryTracker](https://github.com/AAyar94/CaloryTracker)  | [SettoWally](https://github.com/AAyar94/SettoWally_Kotlin)  | [Snake Game](https://github.com/AAyar94/Snake_Game)
-|--------------|--------------|--------------|
-| <img src="https://github.com/AAyar94/CaloryTracker/blob/main/screenshots/home_filled.png" width="250" /> | <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> | <img src="https://github.com/AAyar94/Snake_Game/blob/main/screenshots/snake01.png" width="250" /> |
+| [CaloryTracker](https://github.com/AAyar94/CaloryTracker)  |  [Snake Game](https://github.com/AAyar94/Snake_Game)
+|--------------|--------------|
+| <img src="https://github.com/AAyar94/CaloryTracker/blob/main/screenshots/home_filled.png" width="250" /> | <img src="https://github.com/AAyar94/Snake_Game/blob/main/screenshots/snake01.png" width="250" /> |
 
 
-| [CryptoTracker](https://github.com/AAyar94/CryptoTracker)  |
-|--------------|
-| <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/crypto_screenshot_multi.png" width="250" /> | 
+| [CryptoTracker](https://github.com/AAyar94/CryptoTracker)  |[SettoWally](https://github.com/AAyar94/SettoWally_Kotlin)  |
+|--------------|--------------|
+| <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/crypto_screenshot_multi.png" width="500" /> |  <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> |
 
 </div>
 
