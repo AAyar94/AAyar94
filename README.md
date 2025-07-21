@@ -56,7 +56,7 @@
 
 <div align=center>
 
-|  [Aquatick](https://github.com/AAyar94/Aquatick) |
-|--------------|
-|  <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/aquatickhome.png"  />
+|  [Aquatick](https://github.com/AAyar94/Aquatick) | [QR Scanner](https://github.com/AAyar94/QRScanner) |
+|--------------|--------------|
+|  <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/aquatick_standard_home.png" width="250" /> |  <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/screenshot_qr_scanner.png" width="250" /> 
 </div>
