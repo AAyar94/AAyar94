@@ -50,6 +50,13 @@
 |--------------|--------------|
 | <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/crypto_screenshot_multi.png" width="500" /> |  <img src="https://github.com/AAyar94/SettoWally_Kotlin/blob/master/raw/settowally_device.png" width="500" /> |
 
+<div align="center">
+  <a href="https://github.com/AAyar94/SmartCodeSorter-KotlinPlugin">
+    <h2>SmartCodeSorter-Kotlin IDE Plugin</h2>
+    <img src="https://github.com/AAyar94/aayar94.github.io/blob/main/assets/imgs/smart_code_sorter_x.png" width="500" />
+  </a>
+</div>
+
 </div>
 
 ## 🛠Ongoing Projects
